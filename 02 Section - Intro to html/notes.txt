@@ -1,0 +1,83 @@
+2. Introduction to HTML
+11. What is HTML?
+HTML : Hyper Text Markup Language
+
+This will have the structue and the content of the website.
+
+Hyper text means connecting with one file to another by using the hyper links.
+
+Markup language this is done the add the html tags.
+
+Assume that as if you are writing a Book
+
+Documentation html : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+
+
+
+2. Introduction to HTML
+13. HTML Heading Elements
+Headings are ranked from h1 to h6.
+
+where h1 has the highest priority and h2 having the lowest priority.
+
+Tags : <h1><h2> these are the tags.
+
+Elements : <h1>Chapter 1<h2> this is element.
+
+Rules
+
+we can have only 1 <h1> tag on the website
+
+Don't skip any header from h1 don't jump on h3. go to h2
+
+
+
+
+2. Introduction to HTML
+15. Self Closing Tags
+Void elements
+
+Elements that doesn't have any content between them.
+
+Also called as self closing element.
+
+It ends with the forward slash .
+
+Upper part pointing towards right is forward slash.
+
+<hr />, <br />
+
+
+
+Non-void elements
+
+These are the elements having contents between them.
+
+<h1> chapter 1 </ h1>
+
+
+
+2. Introduction to HTML
+15. Self Closing Tags
+we have a tag named <pre> wkrbvkwb </pre>, this tag stands for pre formated tags it stays the way you keep them .
+
+eg:
+
+<pre>
+
+Shayan Khan,
+
+17 oct 2000
+
+Dell 7415
+
+</pre>
+
+
+
+we can use this website to find out the differeces between the codes.
+
+diff cheker
+
+https://www.diffchecker.com/text-compare/

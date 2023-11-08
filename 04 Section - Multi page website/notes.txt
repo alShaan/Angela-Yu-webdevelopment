@@ -1,0 +1,23 @@
+4. Multi-Page Websites
+25. Computer File Paths
+We have 2 types of file path
+
+Absolute file path
+
+Relative file path
+
+These file paths can give you the location of a file or a folder.
+
+Absolute file path is the simplest one. It is the one which is relative to the root of the computer i.e. from the c drive eg : c:/project/Images/cat.png.
+
+Relative file path is the path i.e relative to something. you Can be wherever you are and tell the computer where is the expected file that you want. whether it in the same directory or in the main directory. eg: images/cat.png.
+
+we have some special characters in the relative file paths.
+
+../index.js : double dot means go up A level.
+
+./index.js : single dot simply means look into the current directory.
+
+web pages : html + css + js (this where you dont get any data from the usesr)
+
+web apps : html + css + js + database + api (this where you can get any data from the user as he enters)

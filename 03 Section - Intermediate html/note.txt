@@ -1,0 +1,266 @@
+	
+3. Intermediate HTML
+18. The List Element
+we  have 2 types of list
+
+unordered list <ul></ul>
+
+ordered list <ol></ol>
+
+These will have the list item <li></li>
+
+Indentation in the list is very important
+
+list inside the list
+Anchor Elements helps us to create a hyperlinks.
+
+Anchore tag has an attribute named href which holds the link.
+
+Attribute helps us to provide additional information to the HTML element.
+
+we will be having the name of the attribute and its value.
+
+Attributes can be of multiple types as follows
+
+html tag specific attributes eg: <a> tag has href
+
+global attributes eg: <h1> tag can have draggable attribute
+
+The url or the links or the path is written in the double quotes.
+
+anchor : a tag has href attribute
+
+image : img tag has src attribute
+
+apart from src attibute to img tag we should also use alt attribute that is a short discription about the image
+
+Building a good habbit. Once you have a habit you never think about doing it, you just do it.
+
+4:03
+3. Intermediate HTML
+21. Image Elements
+apart from src attibute to img tag we should also use alt attribute that is a short discription about the image
+
+0:25
+3. Intermediate HTML
+21. Image Elements
+The url or the links or the path is written in the double quotes.
+
+anchor : a tag has href attribute
+
+image : img tag has src attribute
+
+3:53
+3. Intermediate HTML
+20. Anchor Elements
+we will be having the name of the attribute and its value.
+
+Attributes can be of multiple types as follows
+
+html tag specific attributes eg: <a> tag has href
+
+global attributes eg: <h1> tag can have draggable attribute
+
+0:23
+3. Intermediate HTML
+20. Anchor Elements
+Anchor Elements helps us to create a hyperlinks.
+
+Anchore tag has an attribute named href which holds the link.
+
+Attribute helps us to provide additional information to the HTML element.
+
+2:06
+3. Intermediate HTML
+19. Nesting and Indentation
+Indentation in the list is very important
+
+list inside the list
+
+1:00
+3. Intermediate HTML
+18. The List Element
+we  have 2 types of list
+
+unordered list <ul></ul>
+
+ordered list <ol></ol>
+
+These will have the list item <li></li>
+
+
+
+8:04
+2. Introduction to HTML
+15. Self Closing Tags
+we can use this website to find out the differeces between the codes.
+
+diff cheker
+
+https://www.diffchecker.com/text-compare/
+
+5:01
+2. Introduction to HTML
+15. Self Closing Tags
+we have a tag named <pre> wkrbvkwb </pre>, this tag stands for pre formated tags it stays the way you keep them .
+
+eg:
+
+<pre>
+
+Shayan Khan,
+
+17 oct 2000
+
+Dell 7415
+
+</pre>
+
+0:12
+2. Introduction to HTML
+15. Self Closing Tags
+Void elements
+
+Elements that doesn't have any content between them.
+
+Also called as self closing element.
+
+It ends with the forward slash .
+
+Upper part pointing towards right is forward slash.
+
+<hr />, <br />
+
+
+
+Non-void elements
+
+These are the elements having contents between them.
+
+<h1> chapter 1 </ h1>
+
+1:02
+2. Introduction to HTML
+13. HTML Heading Elements
+Headings are ranked from h1 to h6.
+
+where h1 has the highest priority and h2 having the lowest priority.
+
+Tags : <h1><h2> these are the tags.
+
+Elements : <h1>Chapter 1<h2> this is element.
+
+Rules
+
+we can have only 1 <h1> tag on the website
+
+Don't skip any header from h1 don't jump on h3. go to h2
+
+
+
+0:14
+2. Introduction to HTML
+11. What is HTML?
+HTML : Hyper Text Markup Language
+
+This will have the structue and the content of the website.
+
+Hyper text means connecting with one file to another by using the hyper links.
+
+Markup language this is done the add the html tags.
+
+Assume that as if you are writing a Book
+
+Documentation html : https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
+
+0:52
+1. Front-End Web Development
+8. How to Get Help When You're Stuck
+How to get yourself out of the situation where you stuck :-
+
+
+
+1. Think of what you expected and what actually happened and try to find what is actually making the difference. It is Expectation vs Reality.
+
+2. Re-watch the Lectures where you are facing the issues.
+
+3. Compare your code vs with the mentors Code.
+
+4. Q&A sections ask the questions or find if someone else had faced the same issue or not.
+
+- What did you expected ?
+
+- What actually happened ?
+
+- Screenshot of the code ?
+
+- Screenshot of the debug console ?
+
+0:50
+1. Front-End Web Development
+7. How to Get the Most Out of the Course
+Tips for better learning :-
+
+
+
+1. Do not Code along, instead watch for 10 min and then try to code by your own and understand the purpose of the code.
+
+2. We are learning programming and not how to type fast, for typing speed use https://www.keybr.com/.
+
+3. Make your own notes using Cornell method pdf is in the resources.
+
+4. Change the speed as per your requirement.
+
+5. Bookmark the module you struggle to keep up with so that you come back to it.
+
+6. Practice = Mastery. The more you practice the more you learn.
+
+7. If you stuck, learn to rest and not Quit. Learn to use the resources and fix the issues that you have .
+
+0:28
+1. Front-End Web Development
+6. How Do Websites Actually Work?
+Internet Simply connects client computer to the Server Computer.
+
+
+
+Every websites have 3 basics file : Html, Css & JS
+
+(Understand by the example of a house)
+
+Html : Structure of the site i.e. bricks, shapes, buttons, wires, building block, foundation,etc.
+
+Css : It is the designing and beautification part. i.e. Colour, size, textures, design, etc.
+
+JS : Functionality i.e. a light bulb, the doorbell, coocker, stoves.
+
+
+
+This helps us to maintain the seperations of concerns.
+
+Html for Structure(content)
+
+Css for Design
+
+Js for Functionality.
+
+
+
+we can inspect the websites which will give us web developer tools.
+
+2:22
+1. Front-End Web Development
+5. How Does the Internet Actually Work?
+ISP : internet service provider that connects you from one server to another.
+
+DNS : Domain name server this will have all the IP address that you want to have access from youe ISP's.
+
+Every Computer has there own IP adresses, That we can have access. we can connect from 1 server(computer) to another server(computer) Using there IP's.
+
+
+
+Internet is just like connecting one computer with the another on a wider scale.
+
+
+
+nsloopup.io https://www.nslookup.io/ this is a site where you can get the ip addresses of all the websites

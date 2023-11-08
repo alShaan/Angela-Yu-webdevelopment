@@ -1,0 +1,86 @@
+Front-End Web Development
+5. How Does the Internet Actually Work?
+ISP : internet service provider that connects you from one server to another.
+
+DNS : Domain name server this will have all the IP address that you want to have access from youe ISP's.
+
+Every Computer has there own IP adresses, That we can have access. we can connect from 1 server(computer) to another server(computer) Using there IP's.
+
+Internet is just like connecting one computer with the another on a wider scale.
+
+nsloopup.io https://www.nslookup.io/ this is a site where you can get the ip addresses of all the websites
+
+
+
+
+Front-End Web Development
+6. How Do Websites Actually Work?
+Internet Simply connects client computer to the Server Computer.
+
+Every websites have 3 basics file : Html, Css & JS
+
+(Understand by the example of a house)
+
+Html : Structure of the site i.e. bricks, shapes, buttons, wires, building block, foundation,etc.
+
+Css : It is the designing and beautification part. i.e. Colour, size, textures, design, etc.
+
+JS : Functionality i.e. a light bulb, the doorbell, coocker, stoves.
+
+This helps us to maintain the seperations of concerns.
+
+Html for Structure(content)
+
+Css for Design
+
+Js for Functionality.
+
+we can inspect the websites which will give us web developer tools.
+
+
+
+
+Front-End Web Development
+7. How to Get the Most Out of the Course
+Tips for better learning :-
+
+
+
+1. Do not Code along, instead watch for 10 min and then try to code by your own and understand the purpose of the code.
+
+2. We are learning programming and not how to type fast, for typing speed use https://www.keybr.com/.
+
+3. Make your own notes using Cornell method pdf is in the resources.
+
+4. Change the speed as per your requirement.
+
+5. Bookmark the module you struggle to keep up with so that you come back to it.
+
+6. Practice = Mastery. The more you practice the more you learn.
+
+7. If you stuck, learn to rest and not Quit. Learn to use the resources and fix the issues that you have .
+
+
+
+
+1. Front-End Web Development
+8. How to Get Help When You're Stuck
+How to get yourself out of the situation where you stuck :-
+
+
+
+1. Think of what you expected and what actually happened and try to find what is actually making the difference. It is Expectation vs Reality.
+
+2. Re-watch the Lectures where you are facing the issues.
+
+3. Compare your code vs with the mentors Code.
+
+4. Q&A sections ask the questions or find if someone else had faced the same issue or not.
+
+- What did you expected ?
+
+- What actually happened ?
+
+- Screenshot of the code ?
+
+- Screenshot of the debug console ?
