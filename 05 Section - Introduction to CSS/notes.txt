@@ -1,0 +1,54 @@
+	
+5. Introduction to CSS
+32. Why do we need CSS?
+CSS : Cascading style sheet
+
+This is used for the styling, designing & beautification of the website.
+
+*** Seperations of concerns *** this is by far the most important thing.
+
+Html : concerns for the structure
+
+Css : concerns for the styling
+
+JS : concerns for the behaviour
+
+eg : appbrewery.github.io/just-add-css/
+
+
+
+we can add css mainly by 3 types :
+
+inline : inside the opening tag of html you give the style attribute.
+
+internal : You add the style tag at the header serction of the html doc.
+
+external : you make a different file and reference it by linkking through html doc.
+
+
+
+
+Css Selector : It's a part that we want to change/design by changing its property
+
+
+
+We can select the elements as follows:
+
+html element selecctor : selecting by the tag name eg: h1, h3, p, a, etc.
+
+Class selector : class is an attribute given to html element to resemble them as a group. It uses the dot notation. eg: .red-border, .title-text, etc .
+
+iD selector : id is an attribute given to the html tag thar is unique to an element in the html document. It uses the pound symbol as notation . eg: #head-title, #footer-border, etc.
+
+Attribute selector: we can use them by the particular attribute or by the value of the attribute .eg: h1[.title] - h1 having .title, img[draggable] - img having draggable attribute, a[#profile] anchor having profile id, p[draggable = 'false'] - p tag having draggable attribute of value false.
+
+Universal selector : select all , it is denoted by star symbol - *.
+
+
+
+
+
+
+
+
+************** Cut off the distractions and reach towards your goals with higher inensity and focus.
