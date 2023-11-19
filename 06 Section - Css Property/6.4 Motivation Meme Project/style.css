@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Caveat', cursive;
+}
+
+.main {
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: auto;
+    margin: 5%;
+    text-transform: uppercase;
+}
+
+img {
+    border: 5px solid white;
+}

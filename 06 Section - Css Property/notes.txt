@@ -1,0 +1,80 @@
+	
+6. CSS Properties
+38. CSS Colours
+These are the units we use to size the fonts or the elements of the page
+
+1px = 1/96th inch
+
+1pt = 1/72 inch
+
+*** 1em = 100% of parent element
+
+eg : assume h1 having a font size of 1em and body is the parent element having size of 20px.
+
+So, 1em is 100% of parent element i.e. 20px
+
+So, 2em is 200% of parent element i.e. 40px
+
+This type of unit is called the relative unit.
+
+1rem = 100% or root element
+
+root means parent of the parent i.e. from where it started.
+
+h1 has parent body and body has parent html .
+
+so the html is the parent tag.
+
+so the rem unit behaves according to the root size.
+
+if size of root is changed from 20px to 80.
+
+then the element having 2rem, will change from 40px to 180px
+
+basically, 1rem = 1*root size, 2rem = 2*root size, 3rem = 3 * root size, etc.
+
+
+
+
+Static size unit : 1px and 1pt
+
+Relative size unit : 1rem and 1em
+
+In the dev tools if we go to 3dots and select and in the more tools we will get css overview:
+
+This will give us the all the styling that is made eg : what colors and fonts are used etc.
+
+
+Css inspections we can use the chrome dev tools for :-
+
+Finding bugs
+
+Finding how your css is working and how they behave.
+
+It can be very helpful in changing the site on the fly and see how it behaves.
+
+Box model is for these 3 properties :
+
+Margin : gap outside of the border is called as margin
+
+Padding : gaps between the element and the border of the box.
+
+Border
+
+this is how border property is written. thickness style color; eg : border : 2px solid red;
+
+we can give the property to the any of the side i.e. border-top, border-bottom, border-left, border-right.
+
+we can use border width property if we give only one value all 4 side will have the same value throughout.
+
+if we want to give all 4 different sides. border-width: 0px 10px 20px 30px; This will make changes from top right bottom and left making changes in the clockwise.
+
+if we give only 2values to border width. border-width: 10px 15px; this will make the top and bottom border of 10px and left and right of 15px.
+
+
+
+These box model have height and width property
+
+https://appbrewery.github.io/box-model/
+
+div tag : Content division element.

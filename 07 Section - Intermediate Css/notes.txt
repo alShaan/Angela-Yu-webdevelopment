@@ -1,0 +1,28 @@
+Intermediate CSS
+43. The Cascade - Specificity and Inheritance
+In the Css it's all about which style is given more priority.
+
+inline css >> internal css >> external css
+
+Css according to the priority
+
+position : property of overwriting
+
+specificity : tag << class << class/element + attribute << id
+
+type : external << internal << inline
+
+!important : keyword (everything else will be ignored only this styling will take place).
+
+We have 4 different values for the positions : static, relative, absolute and fixed.
+
+Static positions : these are the html default once
+
+website for better understanding :   https://appbrewery.github.io/css-positioning/
+
+Relative positions : Position relative to the default position
+
+Absolute Positioning : this makes the position relative to the nearest positioned or top left corner of the website .
+
+Z-index : it determines which goes on top. eg: if *A has z index of 100 and *B has z index of 50 then *A is going to be on top of *B
+

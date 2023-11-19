@@ -1,0 +1,46 @@
+Span tag is used as inline element tag
+
+Advanced CSS
+48. CSS Display
+Display property :
+
+Inline : This will allow other element beside. But, This will take as much space as it needed to have it wont accept any height or width parameter.
+
+block : This will not allow any element on the either of the side.
+
+inline-block : This property will allow the other element to stay beside and also allows you to set the height and the width
+
+None : this is used when you want to hide the specefic element.
+
+https://appbrewery.github.io/css-display/
+
+Float property is set to the images.
+
+But it affects the behaviour of the paragraph
+
+we have to use the clear property if we want our content to have no effect on the element we wanted.
+
+We can make our site responsive by using
+
+Media Queries
+
+Css flexbox
+
+css grid
+
+external framework eg: Bootstrap
+
+@media (max-width: 600px){
+
+/*Css for screen size smaller or equal to 600px */
+
+}
+
+CSS grid : This is good at making elements in 2d layout
+
+CSS flex : This is good at 1d layout i.e. whether you want all the layout in the X-axis or the Z-axis.
+
+The more you feed yourself with the comforts and the procastinations the stronger it gets, break this chain .
+
+First you work and then you pay your self.
+

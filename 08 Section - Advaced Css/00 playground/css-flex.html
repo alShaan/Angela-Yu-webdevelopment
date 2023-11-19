@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex box</title>
+    <style>
+        .container {
+            display: flex;
+        }
+
+        /* Here we said flex 1 means divide equally in ratio of 1:1:1:1 */
+        .card {
+            background-color: blue;
+            border: 10px solid white;
+            flex: 1; 
+        }
+
+        /* Here we said flex 2 to the first card means divide equally in ratio of 2:1:1:1 */
+        .first {
+            flex: 2;
+        }
+
+        /* Here we said flex 0.5 to the second container means divide equally in ratio of 2:0.5:1:1 */
+        .second {
+            flex: 0.5;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="first card">Box</div>
+        <div class="second card">Box</div>
+        <div class="card">Box</div>
+        <div class="card">Box</div>
+    </div>
+</body>
+</html>
