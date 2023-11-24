@@ -1,0 +1,33 @@
+Flexbox : this is very helpfull for laying out 1-D.
+
+Grid : this is very helpfull for laying out 2-D.
+
+The only thing that does not weigh you down on your travels are skills.
+
+https://appbrewery.github.io/grid-vs-flexbox/
+
+repeat values for grid template.
+
+grid auto row property will be very helpful.
+
+In flex box, Justify content is used to allign the element across the main axis and align-items is used to align the item across the main axis.
+
+we can use the grid line numbers to position our element across the grid.
+
+grid-column property is the shorthand for grid-column-start and grid column end.
+
+we can use the chrome developer tool to get the line numbers and  we can also use the negative numbering.
+
+basically,  grid-column: span 2;
+
+this means,(grid-column-start) start where you are and (grid-column-start) end after 2 columns.
+
+grid-area : row-start / col-start / row-end / col-end 
+This only takes numbers as the input.
+
+One of the biggest difference between the grid and flex box.
+
+i.e. grid allows the element to overlap.
+
+https://appbrewery.github.io/gridgarden/
+

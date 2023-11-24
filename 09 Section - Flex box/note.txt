@@ -1,0 +1,84 @@
+	
+9. Flexbox
+55. Flex Direction
+In Display flex property, the default direction of of the flex is Horizontal.
+
+flex-direction property is set to row by default.
+
+The horizontal axis is called as Main axis
+
+and the vertical axis is called as cross axis
+
+If the we set the display flex property to column .
+
+Then vertical direction is stated as main axis.
+
+and horizontal axis is stated as cross axis.
+
+flex basis is a property which works with display flex property.
+
+when you give them a property of flex-basis: 100px, it stretches the element in the main axis.
+
+** Flex basis is set to the child elements
+
+2:56
+9. Flexbox
+55. Flex Direction
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators
+
+order property is set to the child of the parent who has flex property.
+
+by default the order of the child element is set to 0.
+
+Flex-wrap : nowrap
+
+If this is your property then the element will stay on the main axis even if there is no space on the screen, this is the default property.
+
+If you se the flex-wrap : wrap.
+
+Then if the element does not fit horizontally they get shifted to the bottom.
+
+justify-content: flex-start.
+
+This is set to the parent container and this is the default property
+
+Justify content basically sets the distribution of our items along the main axis.
+
+
+align-items : flex-start;
+
+this property is set to the parent and this is the default .
+
+this property sets the distribution along the cross axis.
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background
+
+https://appbrewery.github.io/flexboxfroggy/
+
+Priority for the sizing of the flex box
+
+content width < width < flex-basis < min-width/max-width
+
+These are for the children
+
+All these property takes numbers as the value.
+
+flex-basis : This is used to stretch cross the main axis.
+
+flex-grow :The flex-grow CSS property sets the flex grow factor, which specifies how much of the flex container's remaining space should be assigned to the flex item's main size.
+
+
+
+flex-shrink : The flex-shrink CSS property sets the flex shrink factor of a flex item. If the size of all flex items is larger than the flex container, items shrink to fit according to flex-shrink.
+
+
+
+Short hand for all the 3
+
+flex:  flex-basis flex-grow flex-shrink
+
+For practicing these concepts https://appbrewery.github.io/flexbox-sizing-exercise/
+
