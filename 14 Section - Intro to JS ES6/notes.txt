@@ -1,0 +1,34 @@
+data types
+
+variable
+
+alert
+
+prompt
+
+typeof()
+
+string concatenation
+
+length 
+
+slice
+
+toUpperCase()
+
+Arithematic operations uses PEMDAS
+Parenthesis Exponential Multiplication Division Addition Subtraction
+
+
+increment and decremment operations
+post : x++
+pre : --x
+
+
+function : behaviour of repeating same operation again and again.
+
+
+functions are of 3 types
+- vanilla function : simple function 
+- functions with parameter & arguments
+- functions with return value
