@@ -1,0 +1,9 @@
+We can inject js by 3 steps:
+- inline js
+- internal js
+- external js
+
+
+innnerHtml is used to target the html and recreate it 
+
+textContent is used to only target the text of the html element
